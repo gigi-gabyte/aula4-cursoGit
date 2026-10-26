@@ -6,3 +6,8 @@ MEUS PROJETOS:
 - Curso GIT
 - Seminário da UEMG
 - Óscar das Ciências
+
+MINHAS HABILIDADES:
+- Matemática básica
+- Origami
+- Cubo mágico
